@@ -6,6 +6,7 @@ You can click the Preview link to take a look at your changes.
 
 # 🚀 Welcome to SumitTechJourney!
 
+****_Learn Tech, Grow Together!_****
 
 🌟 **About Me** <br>
 I’m Sumit, a technology enthusiast on a mission to share my passion and knowledge with fellow learners and professionals. Join me as we explore the ever-evolving world of tech!
@@ -26,10 +27,8 @@ I’m always open to discussions, questions, and collaborative projects. Togethe
 🌐 **Website:** [SumitTechJourney.com](https://sumittechjourney.com)  
 📧 **Email:** [sumittechjourney@gmail.com](mailto:sumittechjourney@gmail.com)
 
-Happy learning!! 🌍✨
+**Enjoy your learning journey!!** 🌍✨
 
-****_Learn Tech, Grow Together!_****
-
-<div style="text-align: right;">
-    <img src="https://i.ibb.co/BwFWTFc/cropped-logo.png" alt="SJT" width="170" />
+<div style="text-align: left;">
+    <img src="https://i.postimg.cc/TY1w0F3K/cropped-image2.png" alt="SJT" width="175" />
 </div>
