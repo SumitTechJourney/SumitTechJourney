@@ -7,9 +7,8 @@ You can click the Preview link to take a look at your changes.
 # 🚀 Welcome to SumitTechJourney!
 
 
-🌟 **About Me** 
+🌟 **About Me** <br>
 I’m Sumit, a technology enthusiast on a mission to share my passion and knowledge with fellow learners and professionals. Join me as we explore the ever-evolving world of tech!
-
 
 🛠️ **What You’ll Find Here**  
 This repository is a hub of valuable resources, tutorials, and courses covering:
@@ -17,7 +16,6 @@ This repository is a hub of valuable resources, tutorials, and courses covering:
 - **🚀 Ansible:** Learn automation techniques that streamline your workflows and boost productivity.
 - **🔄 AWX:** Dive into Ansible Tower for managing your automation with intuitive control.
 - **☁️ Cloud Computing:** Unlock the potential of cloud technologies with in-depth guides on Google Cloud Platform (GCP).
-
 
 🌈 **Why Follow Me?**  
 I believe in the power of community and collaboration. Whether you’re just starting out or looking to deepen your expertise, you’ll find insightful content to help you succeed. Let’s grow together in this exciting tech landscape!
