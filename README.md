@@ -30,5 +30,5 @@ I’m always open to discussions, questions, and collaborative projects. Togethe
 **Enjoy your learning journey!!** 🌍✨
 
 <div style="text-align: left;">
-    <img src="https://i.postimg.cc/TY1w0F3K/cropped-image2.png" alt="SJT" width="175" />
+    <img src="https://i.postimg.cc/TY1w0F3K/cropped-image2.png" alt="SJT" width="170" />
 </div>
